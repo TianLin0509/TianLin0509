@@ -1,0 +1,121 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="980" height="920" viewBox="0 0 980 920" role="img" aria-label="TianLin0509 GitHub 统计仪表盘">
+  <title>TianLin0509 GitHub 统计</title>
+  <desc>公开仓库 32，总 Star 1306，默认分支 Commit 1784，Fork 440，Followers 512，近 365 天活跃仓库 12。</desc>
+  <defs>
+    <style>
+      .bg{fill:#0d1117}.panel{fill:#161b22;stroke:#30363d;stroke-width:1}.card{fill:#0f1622;stroke:#30363d;stroke-width:1}.text{fill:#e6edf3;font-family:-apple-system,BlinkMacSystemFont,"Segoe UI","Microsoft YaHei",Arial,sans-serif}.muted{fill:#8b949e;font-family:-apple-system,BlinkMacSystemFont,"Segoe UI","Microsoft YaHei",Arial,sans-serif}.mono{font-family:Consolas,"SFMono-Regular","Cascadia Mono",monospace}.blue{fill:#58a6ff}.green{fill:#3fb950}.cyan{fill:#39c5cf}.amber{fill:#d29922}.violet{fill:#a371f7}.red{fill:#f85149}
+    </style>
+  </defs>
+  <rect class="bg" width="980" height="920" rx="12"/>
+
+  <text class="text" x="48" y="70" font-size="40" font-weight="800">TianLin0509 · GitHub 统计</text>
+  <text class="muted" x="816" y="54" font-size="13" text-anchor="end">公开仓库快照</text>
+  <text class="muted mono" x="816" y="76" font-size="13" text-anchor="end">2026-05-24 22:51 +08:00</text>
+
+  <g transform="translate(48 104)">
+    <rect class="panel" x="0" y="0" width="136" height="88" rx="8"/>
+    <text class="blue mono" x="16" y="38" font-size="30" font-weight="800">32</text>
+    <text class="muted" x="16" y="66" font-size="13">公开仓库</text>
+
+    <rect class="panel" x="150" y="0" width="136" height="88" rx="8"/>
+    <text class="amber mono" x="166" y="38" font-size="30" font-weight="800">1,306</text>
+    <text class="muted" x="166" y="66" font-size="13">Total Stars</text>
+
+    <rect class="panel" x="300" y="0" width="136" height="88" rx="8"/>
+    <text class="green mono" x="316" y="38" font-size="30" font-weight="800">1,784</text>
+    <text class="muted" x="316" y="66" font-size="13">默认分支 Commits</text>
+
+    <rect class="panel" x="450" y="0" width="136" height="88" rx="8"/>
+    <text class="cyan mono" x="466" y="38" font-size="30" font-weight="800">440</text>
+    <text class="muted" x="466" y="66" font-size="13">Forks</text>
+
+    <rect class="panel" x="600" y="0" width="136" height="88" rx="8"/>
+    <text class="violet mono" x="616" y="38" font-size="30" font-weight="800">512</text>
+    <text class="muted" x="616" y="66" font-size="13">Followers</text>
+
+    <rect class="panel" x="750" y="0" width="136" height="88" rx="8"/>
+    <text class="red mono" x="766" y="38" font-size="30" font-weight="800">12</text>
+    <text class="muted" x="766" y="66" font-size="13">近 365 天活跃仓库</text>
+  </g>
+
+  <g transform="translate(48 218)">
+    <rect class="panel" x="0" y="0" width="432" height="290" rx="8"/>
+    <text class="text" x="18" y="34" font-size="20" font-weight="800">Star 排行</text>
+    <text class="text" x="18" y="76" font-size="12" font-weight="700">BF-design-with-DL</text>
+    <rect class="blue" x="170" y="62" width="236" height="18" rx="4"/><text class="text mono" x="414" y="76" font-size="12">329</text>
+    <text class="text" x="18" y="112" font-size="12" font-weight="700">DNN_detection</text>
+    <rect class="green" x="170" y="98" width="146" height="18" rx="4"/><text class="text mono" x="324" y="112" font-size="12">204</text>
+    <text class="text" x="18" y="148" font-size="12" font-weight="700">Hybrid Beamforming</text>
+    <rect class="cyan" x="170" y="134" width="132" height="18" rx="4"/><text class="text mono" x="310" y="148" font-size="12">184</text>
+    <text class="text" x="18" y="184" font-size="12" font-weight="700">Communication eBooks</text>
+    <rect class="amber" x="170" y="170" width="110" height="18" rx="4"/><text class="text mono" x="288" y="184" font-size="12">154</text>
+    <text class="text" x="18" y="220" font-size="12" font-weight="700">Easiest SRGAN</text>
+    <rect class="violet" x="170" y="206" width="56" height="18" rx="4"/><text class="text mono" x="234" y="220" font-size="12">79</text>
+    <text class="text" x="18" y="256" font-size="12" font-weight="700">Awesome DL Wireless</text>
+    <rect class="red" x="170" y="242" width="50" height="18" rx="4"/><text class="text mono" x="228" y="256" font-size="12">69</text>
+
+    <rect class="panel" x="456" y="0" width="432" height="290" rx="8"/>
+    <text class="text" x="474" y="34" font-size="20" font-weight="800">Commit 排行</text>
+    <text class="text" x="474" y="76" font-size="12" font-weight="700">claude-session-hub</text>
+    <rect class="blue" x="626" y="62" width="236" height="18" rx="4"/><text class="text mono" x="870" y="76" font-size="12">752</text>
+    <text class="text" x="474" y="112" font-size="12" font-weight="700">MARLlib</text>
+    <rect class="green" x="626" y="98" width="108" height="18" rx="4"/><text class="text mono" x="742" y="112" font-size="12">344</text>
+    <text class="text" x="474" y="148" font-size="12" font-weight="700">Stock_test</text>
+    <rect class="cyan" x="626" y="134" width="59" height="18" rx="4"/><text class="text mono" x="693" y="148" font-size="12">188</text>
+    <text class="text" x="474" y="184" font-size="12" font-weight="700">LinDangAgent</text>
+    <rect class="amber" x="626" y="170" width="27" height="18" rx="4"/><text class="text mono" x="661" y="184" font-size="12">86</text>
+    <text class="text" x="474" y="220" font-size="12" font-weight="700">ai-arena-extension</text>
+    <rect class="violet" x="626" y="206" width="21" height="18" rx="4"/><text class="text mono" x="655" y="220" font-size="12">66</text>
+    <text class="text" x="474" y="256" font-size="12" font-weight="700">BF-design-with-DL</text>
+    <rect class="red" x="626" y="242" width="18" height="18" rx="4"/><text class="text mono" x="652" y="256" font-size="12">56</text>
+  </g>
+
+  <g transform="translate(48 532)">
+    <rect class="panel" x="0" y="0" width="432" height="252" rx="8"/>
+    <text class="text" x="18" y="34" font-size="20" font-weight="800">语言分布</text>
+    <circle cx="138" cy="136" r="74" fill="none" stroke="#30363d" stroke-width="34"/>
+    <circle cx="138" cy="136" r="74" fill="none" stroke="#58a6ff" stroke-width="34" stroke-dasharray="151 465" transform="rotate(-90 138 136)"/>
+    <circle cx="138" cy="136" r="74" fill="none" stroke="#3fb950" stroke-width="34" stroke-dasharray="93 465" stroke-dashoffset="-151" transform="rotate(-90 138 136)"/>
+    <circle cx="138" cy="136" r="74" fill="none" stroke="#d29922" stroke-width="34" stroke-dasharray="81 465" stroke-dashoffset="-244" transform="rotate(-90 138 136)"/>
+    <circle cx="138" cy="136" r="74" fill="none" stroke="#39c5cf" stroke-width="34" stroke-dasharray="23 465" stroke-dashoffset="-325" transform="rotate(-90 138 136)"/>
+    <circle cx="138" cy="136" r="74" fill="none" stroke="#a371f7" stroke-width="34" stroke-dasharray="23 465" stroke-dashoffset="-348" transform="rotate(-90 138 136)"/>
+    <text class="text mono" x="138" y="133" text-anchor="middle" font-size="28" font-weight="800">32</text>
+    <text class="muted" x="138" y="156" text-anchor="middle" font-size="12">Repos</text>
+    <rect class="blue" x="264" y="72" width="12" height="12" rx="2"/><text class="text" x="284" y="83" font-size="13">Python · 13</text>
+    <rect class="green" x="264" y="106" width="12" height="12" rx="2"/><text class="text" x="284" y="117" font-size="13">MATLAB · 8</text>
+    <rect class="amber" x="264" y="140" width="12" height="12" rx="2"/><text class="text" x="284" y="151" font-size="13">未标注 · 7</text>
+    <rect class="cyan" x="264" y="174" width="12" height="12" rx="2"/><text class="text" x="284" y="185" font-size="13">HTML · 2</text>
+    <rect class="violet" x="264" y="208" width="12" height="12" rx="2"/><text class="text" x="284" y="219" font-size="13">JavaScript · 2</text>
+
+    <rect class="panel" x="456" y="0" width="432" height="252" rx="8"/>
+    <text class="text" x="474" y="34" font-size="20" font-weight="800">语言贡献</text>
+    <text class="text" x="474" y="78" font-size="12" font-weight="700">MATLAB</text>
+    <rect class="amber" x="574" y="62" width="202" height="16" rx="4"/><text class="text mono" x="784" y="76" font-size="12">648 stars</text>
+    <rect class="blue" x="574" y="86" width="30" height="10" rx="3"/><text class="muted mono" x="612" y="96" font-size="12">96 commits</text>
+    <text class="text" x="474" y="128" font-size="12" font-weight="700">Python</text>
+    <rect class="amber" x="574" y="112" width="110" height="16" rx="4"/><text class="text mono" x="692" y="126" font-size="12">354 stars</text>
+    <rect class="blue" x="574" y="136" width="126" height="10" rx="3"/><text class="muted mono" x="708" y="146" font-size="12">404 commits</text>
+    <text class="text" x="474" y="178" font-size="12" font-weight="700">未标注</text>
+    <rect class="amber" x="574" y="162" width="85" height="16" rx="4"/><text class="text mono" x="667" y="176" font-size="12">274 stars</text>
+    <rect class="blue" x="574" y="186" width="118" height="10" rx="3"/><text class="muted mono" x="700" y="196" font-size="12">379 commits</text>
+    <text class="text" x="474" y="228" font-size="12" font-weight="700">JavaScript</text>
+    <rect class="amber" x="574" y="212" width="11" height="16" rx="4"/><text class="text mono" x="593" y="226" font-size="12">30 stars</text>
+    <rect class="blue" x="666" y="216" width="214" height="10" rx="3"/><text class="muted mono" x="794" y="244" font-size="12">818 commits</text>
+  </g>
+
+  <g transform="translate(48 808)">
+    <rect class="panel" x="0" y="0" width="888" height="74" rx="8"/>
+    <text class="text" x="18" y="30" font-size="18" font-weight="800">最近活跃仓库</text>
+    <line x1="184" y1="38" x2="842" y2="38" stroke="#30363d" stroke-width="2"/>
+    <circle class="blue" cx="190" cy="38" r="10"/><text class="muted" x="190" y="62" text-anchor="middle" font-size="11">profile</text>
+    <circle class="green" cx="286" cy="38" r="10"/><text class="muted" x="286" y="62" text-anchor="middle" font-size="11">ppt-image</text>
+    <circle class="cyan" cx="382" cy="38" r="10"/><text class="muted" x="382" y="62" text-anchor="middle" font-size="11">hub</text>
+    <circle class="amber" cx="478" cy="38" r="10"/><text class="muted" x="478" y="62" text-anchor="middle" font-size="11">extension</text>
+    <circle class="violet" cx="574" cy="38" r="10"/><text class="muted" x="574" y="62" text-anchor="middle" font-size="11">ppt-assist</text>
+    <circle class="red" cx="670" cy="38" r="10"/><text class="muted" x="670" y="62" text-anchor="middle" font-size="11">LinDang</text>
+    <circle class="blue" cx="766" cy="38" r="10"/><text class="muted" x="766" y="62" text-anchor="middle" font-size="11">L2_RRM</text>
+    <circle class="green" cx="842" cy="38" r="10"/><text class="muted" x="842" y="62" text-anchor="middle" font-size="11">AI-Web</text>
+  </g>
+
+  <text class="muted" x="490" y="904" font-size="12" text-anchor="middle">口径：公开 owner repos；commit 为各仓库默认分支 commit 数汇总。</text>
+</svg>
