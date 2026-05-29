@@ -42,7 +42,8 @@ COLORS = {
 }
 ACCENTS = ["blue", "amber", "green", "cyan", "violet", "red"]
 # GitHub-style green scale for the contribution heatmap (dark theme).
-HEAT = ["#161b22", "#0e4429", "#006d32", "#26a641", "#39d353"]
+# Level 0 must differ from the panel fill (#161b22) or empty days vanish.
+HEAT = ["#21262d", "#0e4429", "#006d32", "#26a641", "#39d353"]
 
 
 # --------------------------------------------------------------------------- #
@@ -350,7 +351,7 @@ def render_contrib(contrib):
     out = []
     max_stars = max((s for _, s, _ in contrib), default=1) or 1
     max_commits = max((c for _, _, c in contrib), default=1) or 1
-    BAR_X, MAX_W, NUM_X = 574, 168, 872
+    BAR_X, MAX_W, NUM_X = 574, 150, 864
     for i, (lang, stars, commits) in enumerate(contrib):
         base = 62 + i * 50
         ws = scaled(stars, max_stars, MAX_W)
@@ -376,17 +377,21 @@ def render_heatmap(weeks, total):
     for row, lbl in ((1, "Mon"), (3, "Wed"), (5, "Fri")):
         out.append('<text class="muted" x="18" y="%d" font-size="9">%s</text>'
                    % (gy + row * step + 9, lbl))
-    # month labels
+    # month labels — only when the month changes AND there is enough gap from
+    # the previous label (avoids "May"/"Jun" overlapping on partial first week).
     months = ["Jan", "Feb", "Mar", "Apr", "May", "Jun",
               "Jul", "Aug", "Sep", "Oct", "Nov", "Dec"]
     last_month = None
+    last_label_x = -999
     for c, w in enumerate(weeks):
         first = w["contributionDays"][0]["date"]
         m = int(first[5:7])
-        if m != last_month:
+        x = gx + c * step
+        if m != last_month and x - last_label_x >= 3 * step:
             out.append('<text class="muted" x="%d" y="%d" font-size="9">%s</text>'
-                       % (gx + c * step, gy - 6, months[m - 1]))
-            last_month = m
+                       % (x, gy - 6, months[m - 1]))
+            last_label_x = x
+        last_month = m
     # cells
     for c, w in enumerate(weeks):
         for d in w["contributionDays"]:
