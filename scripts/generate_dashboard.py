@@ -344,21 +344,25 @@ def render_donut(dist, total, cx, cy, r):
 
 
 def render_contrib(contrib):
+    # Bars start at BAR_X, capped at MAX_W so they never reach the number column.
+    # All numbers are right-aligned at NUM_X for a clean aligned look, inside the
+    # 432-wide panel (right edge x=888) — fixes the old JS-bar overflow.
     out = []
     max_stars = max((s for _, s, _ in contrib), default=1) or 1
     max_commits = max((c for _, _, c in contrib), default=1) or 1
+    BAR_X, MAX_W, NUM_X = 574, 168, 872
     for i, (lang, stars, commits) in enumerate(contrib):
         base = 62 + i * 50
-        ws = scaled(stars, max_stars, 202)
-        wc = scaled(commits, max_commits, 202)
+        ws = scaled(stars, max_stars, MAX_W)
+        wc = scaled(commits, max_commits, MAX_W)
         out.append('<text class="text" x="474" y="%d" font-size="12" font-weight="700">%s</text>'
                    % (base + 16, esc(clip(lang, 16))))
-        out.append('<rect class="amber" x="574" y="%d" width="%d" height="16" rx="4"/>'
-                   '<text class="text mono" x="%d" y="%d" font-size="12">%s stars</text>'
-                   % (base, ws, 574 + ws + 8, base + 14, "{:,}".format(stars)))
-        out.append('<rect class="blue" x="574" y="%d" width="%d" height="10" rx="3"/>'
-                   '<text class="muted mono" x="%d" y="%d" font-size="12">%s commits</text>'
-                   % (base + 24, wc, 574 + wc + 8, base + 34, "{:,}".format(commits)))
+        out.append('<rect class="amber" x="%d" y="%d" width="%d" height="16" rx="4"/>'
+                   '<text class="text mono" x="%d" y="%d" font-size="12" text-anchor="end">%s stars</text>'
+                   % (BAR_X, base, ws, NUM_X, base + 14, "{:,}".format(stars)))
+        out.append('<rect class="blue" x="%d" y="%d" width="%d" height="10" rx="3"/>'
+                   '<text class="muted mono" x="%d" y="%d" font-size="12" text-anchor="end">%s commits</text>'
+                   % (BAR_X, base + 24, wc, NUM_X, base + 34, "{:,}".format(commits)))
     return "\n    ".join(out)
 
 
