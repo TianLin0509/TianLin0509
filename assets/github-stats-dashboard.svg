@@ -20,7 +20,7 @@
     <text class="amber mono" x="166" y="38" font-size="30" font-weight="800">1,311</text>
     <text class="muted" x="166" y="66" font-size="13">Total Stars</text>
     <rect class="panel" x="300" y="0" width="136" height="88" rx="8"/>
-    <text class="green mono" x="316" y="38" font-size="30" font-weight="800">2,128</text>
+    <text class="green mono" x="316" y="38" font-size="30" font-weight="800">2,130</text>
     <text class="muted" x="316" y="66" font-size="13">默认分支 Commits</text>
     <rect class="panel" x="450" y="0" width="136" height="88" rx="8"/>
     <text class="cyan mono" x="466" y="38" font-size="30" font-weight="800">440</text>
@@ -54,7 +54,7 @@
     <text class="text" x="474" y="76" font-size="12" font-weight="700">claude-session-hub</text>
     <rect class="blue" x="626" y="62" width="236" height="18" rx="4"/><text class="text mono" x="870" y="76" font-size="12">752</text>
     <text class="text" x="474" y="112" font-size="12" font-weight="700">ai-arena-extension</text>
-    <rect class="amber" x="626" y="98" width="127" height="18" rx="4"/><text class="text mono" x="761" y="112" font-size="12">405</text>
+    <rect class="amber" x="626" y="98" width="127" height="18" rx="4"/><text class="text mono" x="761" y="112" font-size="12">406</text>
     <text class="text" x="474" y="148" font-size="12" font-weight="700">MARLlib</text>
     <rect class="green" x="626" y="134" width="108" height="18" rx="4"/><text class="text mono" x="742" y="148" font-size="12">344</text>
     <text class="text" x="474" y="184" font-size="12" font-weight="700">Stock_test</text>
@@ -89,13 +89,13 @@
     <rect class="blue" x="574" y="86" width="14" height="10" rx="3"/><text class="muted mono" x="872" y="96" font-size="12" text-anchor="end">96 commits</text>
     <text class="text" x="474" y="128" font-size="12" font-weight="700">Python</text>
     <rect class="amber" x="574" y="112" width="92" height="16" rx="4"/><text class="text mono" x="872" y="126" font-size="12" text-anchor="end">354 stars</text>
-    <rect class="blue" x="574" y="136" width="60" height="10" rx="3"/><text class="muted mono" x="872" y="146" font-size="12" text-anchor="end">413 commits</text>
+    <rect class="blue" x="574" y="136" width="60" height="10" rx="3"/><text class="muted mono" x="872" y="146" font-size="12" text-anchor="end">414 commits</text>
     <text class="text" x="474" y="178" font-size="12" font-weight="700">未标注</text>
     <rect class="amber" x="574" y="162" width="71" height="16" rx="4"/><text class="text mono" x="872" y="176" font-size="12" text-anchor="end">274 stars</text>
     <rect class="blue" x="574" y="186" width="54" height="10" rx="3"/><text class="muted mono" x="872" y="196" font-size="12" text-anchor="end">375 commits</text>
     <text class="text" x="474" y="228" font-size="12" font-weight="700">JavaScript</text>
     <rect class="amber" x="574" y="212" width="9" height="16" rx="4"/><text class="text mono" x="872" y="226" font-size="12" text-anchor="end">34 stars</text>
-    <rect class="blue" x="574" y="236" width="168" height="10" rx="3"/><text class="muted mono" x="872" y="246" font-size="12" text-anchor="end">1,157 commits</text>
+    <rect class="blue" x="574" y="236" width="168" height="10" rx="3"/><text class="muted mono" x="872" y="246" font-size="12" text-anchor="end">1,158 commits</text>
   </g>
 
   <g transform="translate(48 808)">
@@ -544,8 +544,8 @@
     <rect class="panel" x="0" y="0" width="888" height="74" rx="8"/>
     <text class="text" x="18" y="30" font-size="18" font-weight="800">最近活跃仓库</text>
     <line x1="184" y1="38" x2="842" y2="38" stroke="#30363d" stroke-width="2"/>
-    <circle class="blue" cx="190" cy="38" r="10"/><text class="muted" x="190" y="62" text-anchor="middle" font-size="11">TianLin0509</text>
-    <circle class="amber" cx="283" cy="38" r="10"/><text class="muted" x="283" y="62" text-anchor="middle" font-size="11">ai-arena-ex…</text>
+    <circle class="blue" cx="190" cy="38" r="10"/><text class="muted" x="190" y="62" text-anchor="middle" font-size="11">ai-arena-ex…</text>
+    <circle class="amber" cx="283" cy="38" r="10"/><text class="muted" x="283" y="62" text-anchor="middle" font-size="11">TianLin0509</text>
     <circle class="green" cx="376" cy="38" r="10"/><text class="muted" x="376" y="62" text-anchor="middle" font-size="11">ppt-image-s…</text>
     <circle class="cyan" cx="469" cy="38" r="10"/><text class="muted" x="469" y="62" text-anchor="middle" font-size="11">claude-sess…</text>
     <circle class="violet" cx="563" cy="38" r="10"/><text class="muted" x="563" y="62" text-anchor="middle" font-size="11">ppt-assista…</text>
