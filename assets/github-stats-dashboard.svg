@@ -10,7 +10,7 @@
 
   <text class="text" x="48" y="70" font-size="40" font-weight="800">TianLin0509 · GitHub 统计</text>
   <text class="muted" x="932" y="54" font-size="13" text-anchor="end">GitHub 实时统计</text>
-  <text class="muted mono" x="932" y="76" font-size="13" text-anchor="end">更新于 2026-06-30</text>
+  <text class="muted mono" x="932" y="76" font-size="13" text-anchor="end">更新于 2026-07-01</text>
 
   <g transform="translate(48 104)">
     <rect class="panel" x="0" y="0" width="136" height="88" rx="8"/>
@@ -20,7 +20,7 @@
     <text class="amber mono" x="166" y="38" font-size="30" font-weight="800">1,331</text>
     <text class="muted" x="166" y="66" font-size="13">Total Stars</text>
     <rect class="panel" x="300" y="0" width="136" height="88" rx="8"/>
-    <text class="green mono" x="316" y="38" font-size="30" font-weight="800">2,147</text>
+    <text class="green mono" x="316" y="38" font-size="30" font-weight="800">2,150</text>
     <text class="muted" x="316" y="66" font-size="13">默认分支 Commits</text>
     <rect class="panel" x="450" y="0" width="136" height="88" rx="8"/>
     <text class="cyan mono" x="466" y="38" font-size="30" font-weight="800">448</text>
@@ -58,11 +58,11 @@
     <text class="text" x="474" y="148" font-size="12" font-weight="700">MARLlib</text>
     <rect class="green" x="626" y="134" width="90" height="18" rx="4"/><text class="text mono" x="724" y="148" font-size="12">344</text>
     <text class="text" x="474" y="184" font-size="12" font-weight="700">PPTutor</text>
-    <rect class="cyan" x="626" y="170" width="28" height="18" rx="4"/><text class="text mono" x="662" y="184" font-size="12">107</text>
+    <rect class="cyan" x="626" y="170" width="29" height="18" rx="4"/><text class="text mono" x="663" y="184" font-size="12">109</text>
     <text class="text" x="474" y="220" font-size="12" font-weight="700">BF-design-with-DL</text>
     <rect class="violet" x="626" y="206" width="15" height="18" rx="4"/><text class="text mono" x="649" y="220" font-size="12">56</text>
-    <text class="text" x="474" y="256" font-size="12" font-weight="700">L2_RRM_Sim</text>
-    <rect class="red" x="626" y="242" width="12" height="18" rx="4"/><text class="text mono" x="646" y="256" font-size="12">47</text>
+    <text class="text" x="474" y="256" font-size="12" font-weight="700">TianLin0509</text>
+    <rect class="red" x="626" y="242" width="13" height="18" rx="4"/><text class="text mono" x="647" y="256" font-size="12">48</text>
   </g>
 
   <g transform="translate(48 532)">
@@ -89,7 +89,7 @@
     <rect class="blue" x="574" y="86" width="11" height="10" rx="3"/><text class="muted mono" x="864" y="96" font-size="12" text-anchor="end">96 commits</text>
     <text class="text" x="474" y="128" font-size="12" font-weight="700">Python</text>
     <rect class="amber" x="574" y="112" width="82" height="16" rx="4"/><text class="text mono" x="864" y="126" font-size="12" text-anchor="end">355 stars</text>
-    <rect class="blue" x="574" y="136" width="36" height="10" rx="3"/><text class="muted mono" x="864" y="146" font-size="12" text-anchor="end">321 commits</text>
+    <rect class="blue" x="574" y="136" width="36" height="10" rx="3"/><text class="muted mono" x="864" y="146" font-size="12" text-anchor="end">324 commits</text>
     <text class="text" x="474" y="178" font-size="12" font-weight="700">未标注</text>
     <rect class="amber" x="574" y="162" width="64" height="16" rx="4"/><text class="text mono" x="864" y="176" font-size="12" text-anchor="end">276 stars</text>
     <rect class="blue" x="574" y="186" width="42" height="10" rx="3"/><text class="muted mono" x="864" y="196" font-size="12" text-anchor="end">376 commits</text>
@@ -484,6 +484,7 @@
     <rect x="826" y="52" width="11" height="11" rx="2" fill="#0e4429"/>
     <rect x="826" y="67" width="11" height="11" rx="2" fill="#21262d"/>
     <rect x="826" y="82" width="11" height="11" rx="2" fill="#21262d"/>
+    <rect x="826" y="97" width="11" height="11" rx="2" fill="#21262d"/>
     <text class="muted" x="672" y="178" font-size="11">Less</text>
     <rect x="700" y="169" width="11" height="11" rx="2" fill="#21262d"/>
     <rect x="715" y="169" width="11" height="11" rx="2" fill="#0e4429"/>
@@ -504,32 +505,32 @@
     <text class="text" x="474" y="30" font-size="18" font-weight="800">近 30 天提交趋势</text>
     <rect class="blue" x="478" y="99" width="8" height="1" rx="1"/>
     <rect class="blue" x="490" y="99" width="8" height="1" rx="1"/>
-    <rect class="blue" x="502" y="99" width="8" height="1" rx="1"/>
-    <rect class="blue" x="514" y="97" width="8" height="3" rx="1"/>
-    <rect class="blue" x="526" y="99" width="8" height="1" rx="1"/>
-    <rect class="blue" x="538" y="97" width="8" height="3" rx="1"/>
-    <rect class="blue" x="550" y="99" width="8" height="1" rx="1"/>
-    <rect class="blue" x="562" y="93" width="8" height="7" rx="1"/>
-    <rect class="blue" x="574" y="97" width="8" height="3" rx="1"/>
-    <rect class="blue" x="586" y="90" width="8" height="10" rx="1"/>
-    <rect class="blue" x="598" y="77" width="8" height="23" rx="1"/>
-    <rect class="blue" x="610" y="80" width="8" height="20" rx="1"/>
-    <rect class="blue" x="622" y="44" width="8" height="56" rx="1"/>
-    <rect class="blue" x="634" y="87" width="8" height="13" rx="1"/>
-    <rect class="blue" x="646" y="99" width="8" height="1" rx="1"/>
-    <rect class="blue" x="658" y="87" width="8" height="13" rx="1"/>
-    <rect class="blue" x="670" y="97" width="8" height="3" rx="1"/>
-    <rect class="blue" x="682" y="99" width="8" height="1" rx="1"/>
-    <rect class="blue" x="694" y="80" width="8" height="20" rx="1"/>
-    <rect class="blue" x="706" y="99" width="8" height="1" rx="1"/>
-    <rect class="blue" x="718" y="97" width="8" height="3" rx="1"/>
+    <rect class="blue" x="502" y="97" width="8" height="3" rx="1"/>
+    <rect class="blue" x="514" y="99" width="8" height="1" rx="1"/>
+    <rect class="blue" x="526" y="97" width="8" height="3" rx="1"/>
+    <rect class="blue" x="538" y="99" width="8" height="1" rx="1"/>
+    <rect class="blue" x="550" y="93" width="8" height="7" rx="1"/>
+    <rect class="blue" x="562" y="97" width="8" height="3" rx="1"/>
+    <rect class="blue" x="574" y="90" width="8" height="10" rx="1"/>
+    <rect class="blue" x="586" y="77" width="8" height="23" rx="1"/>
+    <rect class="blue" x="598" y="80" width="8" height="20" rx="1"/>
+    <rect class="blue" x="610" y="44" width="8" height="56" rx="1"/>
+    <rect class="blue" x="622" y="87" width="8" height="13" rx="1"/>
+    <rect class="blue" x="634" y="99" width="8" height="1" rx="1"/>
+    <rect class="blue" x="646" y="87" width="8" height="13" rx="1"/>
+    <rect class="blue" x="658" y="97" width="8" height="3" rx="1"/>
+    <rect class="blue" x="670" y="99" width="8" height="1" rx="1"/>
+    <rect class="blue" x="682" y="80" width="8" height="20" rx="1"/>
+    <rect class="blue" x="694" y="99" width="8" height="1" rx="1"/>
+    <rect class="blue" x="706" y="97" width="8" height="3" rx="1"/>
+    <rect class="blue" x="718" y="99" width="8" height="1" rx="1"/>
     <rect class="blue" x="730" y="99" width="8" height="1" rx="1"/>
     <rect class="blue" x="742" y="99" width="8" height="1" rx="1"/>
     <rect class="blue" x="754" y="99" width="8" height="1" rx="1"/>
     <rect class="blue" x="766" y="99" width="8" height="1" rx="1"/>
     <rect class="blue" x="778" y="99" width="8" height="1" rx="1"/>
-    <rect class="blue" x="790" y="99" width="8" height="1" rx="1"/>
-    <rect class="blue" x="802" y="90" width="8" height="10" rx="1"/>
+    <rect class="blue" x="790" y="90" width="8" height="10" rx="1"/>
+    <rect class="blue" x="802" y="99" width="8" height="1" rx="1"/>
     <rect class="blue" x="814" y="99" width="8" height="1" rx="1"/>
     <rect class="blue" x="826" y="99" width="8" height="1" rx="1"/>
     <line x1="476" y1="102" x2="838" y2="102" stroke="#30363d" stroke-width="1"/>
@@ -540,8 +541,8 @@
     <rect class="panel" x="0" y="0" width="888" height="74" rx="8"/>
     <text class="text" x="18" y="30" font-size="18" font-weight="800">最近活跃仓库</text>
     <line x1="184" y1="38" x2="842" y2="38" stroke="#30363d" stroke-width="2"/>
-    <circle class="blue" cx="190" cy="38" r="10"/><text class="muted" x="190" y="62" text-anchor="middle" font-size="11">TianLin0509</text>
-    <circle class="amber" cx="283" cy="38" r="10"/><text class="muted" x="283" y="62" text-anchor="middle" font-size="11">PPTutor</text>
+    <circle class="blue" cx="190" cy="38" r="10"/><text class="muted" x="190" y="62" text-anchor="middle" font-size="11">PPTutor</text>
+    <circle class="amber" cx="283" cy="38" r="10"/><text class="muted" x="283" y="62" text-anchor="middle" font-size="11">TianLin0509</text>
     <circle class="green" cx="376" cy="38" r="10"/><text class="muted" x="376" y="62" text-anchor="middle" font-size="11">ai-arena-ex…</text>
     <circle class="cyan" cx="469" cy="38" r="10"/><text class="muted" x="469" y="62" text-anchor="middle" font-size="11">claude-sess…</text>
     <circle class="violet" cx="563" cy="38" r="10"/><text class="muted" x="563" y="62" text-anchor="middle" font-size="11">ai-daily-an…</text>
