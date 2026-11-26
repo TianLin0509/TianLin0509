@@ -10,26 +10,26 @@
 
   <text class="text" x="48" y="70" font-size="40" font-weight="800">TianLin0509 · GitHub 统计</text>
   <text class="muted" x="932" y="54" font-size="13" text-anchor="end">GitHub 实时统计</text>
-  <text class="muted mono" x="932" y="76" font-size="13" text-anchor="end">更新于 2026-11-25</text>
+  <text class="muted mono" x="932" y="76" font-size="13" text-anchor="end">更新于 2026-11-26</text>
 
   <g transform="translate(48 104)">
     <rect class="panel" x="0" y="0" width="136" height="88" rx="8"/>
-    <text class="blue mono" x="16" y="38" font-size="30" font-weight="800">52</text>
+    <text class="blue mono" x="16" y="38" font-size="30" font-weight="800">51</text>
     <text class="muted" x="16" y="66" font-size="13">公开仓库</text>
     <rect class="panel" x="150" y="0" width="136" height="88" rx="8"/>
-    <text class="amber mono" x="166" y="38" font-size="30" font-weight="800">1,492</text>
+    <text class="amber mono" x="166" y="38" font-size="30" font-weight="800">1,493</text>
     <text class="muted" x="166" y="66" font-size="13">Total Stars</text>
     <rect class="panel" x="300" y="0" width="136" height="88" rx="8"/>
-    <text class="green mono" x="316" y="38" font-size="30" font-weight="800">2,389</text>
+    <text class="green mono" x="316" y="38" font-size="30" font-weight="800">2,421</text>
     <text class="muted" x="316" y="66" font-size="13">默认分支 Commits</text>
     <rect class="panel" x="450" y="0" width="136" height="88" rx="8"/>
     <text class="cyan mono" x="466" y="38" font-size="30" font-weight="800">478</text>
     <text class="muted" x="466" y="66" font-size="13">Forks</text>
     <rect class="panel" x="600" y="0" width="136" height="88" rx="8"/>
-    <text class="violet mono" x="616" y="38" font-size="30" font-weight="800">548</text>
+    <text class="violet mono" x="616" y="38" font-size="30" font-weight="800">550</text>
     <text class="muted" x="616" y="66" font-size="13">Followers</text>
     <rect class="panel" x="750" y="0" width="136" height="88" rx="8"/>
-    <text class="red mono" x="766" y="38" font-size="30" font-weight="800">32</text>
+    <text class="red mono" x="766" y="38" font-size="30" font-weight="800">31</text>
     <text class="muted" x="766" y="66" font-size="13">近 365 天活跃仓库</text>
   </g>
 
@@ -45,7 +45,7 @@
     <text class="text" x="18" y="184" font-size="12" font-weight="700">Communication_eBooks</text>
     <rect class="cyan" x="170" y="170" width="113" height="18" rx="4"/><text class="text mono" x="291" y="184" font-size="12">161</text>
     <text class="text" x="18" y="220" font-size="12" font-weight="700">ai-arena-extension</text>
-    <rect class="violet" x="170" y="206" width="57" height="18" rx="4"/><text class="text mono" x="235" y="220" font-size="12">81</text>
+    <rect class="violet" x="170" y="206" width="58" height="18" rx="4"/><text class="text mono" x="236" y="220" font-size="12">82</text>
     <text class="text" x="18" y="256" font-size="12" font-weight="700">Easiest-SRGAN-demo</text>
     <rect class="red" x="170" y="242" width="56" height="18" rx="4"/><text class="text mono" x="234" y="256" font-size="12">79</text>
 
@@ -54,13 +54,13 @@
     <text class="text" x="474" y="76" font-size="12" font-weight="700">ai-arena-extension</text>
     <rect class="blue" x="626" y="62" width="236" height="18" rx="4"/><text class="text mono" x="870" y="76" font-size="12">471</text>
     <text class="text" x="474" y="112" font-size="12" font-weight="700">PPTutor</text>
-    <rect class="amber" x="626" y="98" width="191" height="18" rx="4"/><text class="text mono" x="825" y="112" font-size="12">381</text>
+    <rect class="amber" x="626" y="98" width="210" height="18" rx="4"/><text class="text mono" x="844" y="112" font-size="12">419</text>
     <text class="text" x="474" y="148" font-size="12" font-weight="700">MARLlib</text>
     <rect class="green" x="626" y="134" width="172" height="18" rx="4"/><text class="text mono" x="806" y="148" font-size="12">344</text>
     <text class="text" x="474" y="184" font-size="12" font-weight="700">TianLin0509</text>
-    <rect class="cyan" x="626" y="170" width="97" height="18" rx="4"/><text class="text mono" x="731" y="184" font-size="12">194</text>
+    <rect class="cyan" x="626" y="170" width="98" height="18" rx="4"/><text class="text mono" x="732" y="184" font-size="12">195</text>
     <text class="text" x="474" y="220" font-size="12" font-weight="700">ai-hub-huawei</text>
-    <rect class="violet" x="626" y="206" width="87" height="18" rx="4"/><text class="text mono" x="721" y="220" font-size="12">173</text>
+    <rect class="violet" x="626" y="206" width="93" height="18" rx="4"/><text class="text mono" x="727" y="220" font-size="12">185</text>
     <text class="text" x="474" y="256" font-size="12" font-weight="700">ChannelHub_main</text>
     <rect class="red" x="626" y="242" width="73" height="18" rx="4"/><text class="text mono" x="707" y="256" font-size="12">145</text>
   </g>
@@ -69,39 +69,39 @@
     <rect class="panel" x="0" y="0" width="432" height="252" rx="8"/>
     <text class="text" x="18" y="34" font-size="20" font-weight="800">语言分布</text>
     <circle cx="138" cy="136" r="74" fill="none" stroke="#30363d" stroke-width="34"/>
-    <circle cx="138" cy="136" r="74" fill="none" stroke="#58a6ff" stroke-width="34" stroke-dasharray="152.00 312.95" stroke-dashoffset="-0.00" transform="rotate(-90 138 136)"/>
-    <circle cx="138" cy="136" r="74" fill="none" stroke="#d29922" stroke-width="34" stroke-dasharray="143.06 321.89" stroke-dashoffset="-152.00" transform="rotate(-90 138 136)"/>
-    <circle cx="138" cy="136" r="74" fill="none" stroke="#3fb950" stroke-width="34" stroke-dasharray="71.53 393.42" stroke-dashoffset="-295.07" transform="rotate(-90 138 136)"/>
-    <circle cx="138" cy="136" r="74" fill="none" stroke="#39c5cf" stroke-width="34" stroke-dasharray="62.59 402.37" stroke-dashoffset="-366.60" transform="rotate(-90 138 136)"/>
-    <circle cx="138" cy="136" r="74" fill="none" stroke="#a371f7" stroke-width="34" stroke-dasharray="35.77 429.19" stroke-dashoffset="-429.19" transform="rotate(-90 138 136)"/>
-    <text class="text mono" x="138" y="133" text-anchor="middle" font-size="28" font-weight="800">52</text>
+    <circle cx="138" cy="136" r="74" fill="none" stroke="#58a6ff" stroke-width="34" stroke-dasharray="154.99 309.97" stroke-dashoffset="-0.00" transform="rotate(-90 138 136)"/>
+    <circle cx="138" cy="136" r="74" fill="none" stroke="#d29922" stroke-width="34" stroke-dasharray="145.87 319.09" stroke-dashoffset="-154.99" transform="rotate(-90 138 136)"/>
+    <circle cx="138" cy="136" r="74" fill="none" stroke="#3fb950" stroke-width="34" stroke-dasharray="72.93 392.02" stroke-dashoffset="-300.85" transform="rotate(-90 138 136)"/>
+    <circle cx="138" cy="136" r="74" fill="none" stroke="#39c5cf" stroke-width="34" stroke-dasharray="54.70 410.26" stroke-dashoffset="-373.79" transform="rotate(-90 138 136)"/>
+    <circle cx="138" cy="136" r="74" fill="none" stroke="#a371f7" stroke-width="34" stroke-dasharray="36.47 428.49" stroke-dashoffset="-428.49" transform="rotate(-90 138 136)"/>
+    <text class="text mono" x="138" y="133" text-anchor="middle" font-size="28" font-weight="800">51</text>
     <text class="muted" x="138" y="156" text-anchor="middle" font-size="12">Repos</text>
     <rect class="blue" x="264" y="72" width="12" height="12" rx="2"/><text class="text" x="284" y="83" font-size="13">未标注 · 17</text>
     <rect class="amber" x="264" y="106" width="12" height="12" rx="2"/><text class="text" x="284" y="117" font-size="13">Python · 16</text>
     <rect class="green" x="264" y="140" width="12" height="12" rx="2"/><text class="text" x="284" y="151" font-size="13">MATLAB · 8</text>
-    <rect class="cyan" x="264" y="174" width="12" height="12" rx="2"/><text class="text" x="284" y="185" font-size="13">JavaScript · 7</text>
+    <rect class="cyan" x="264" y="174" width="12" height="12" rx="2"/><text class="text" x="284" y="185" font-size="13">JavaScript · 6</text>
     <rect class="violet" x="264" y="208" width="12" height="12" rx="2"/><text class="text" x="284" y="219" font-size="13">其他 · 4</text>
 
     <rect class="panel" x="456" y="0" width="432" height="252" rx="8"/>
     <text class="text" x="474" y="34" font-size="20" font-weight="800">语言贡献</text>
     <text class="text" x="474" y="78" font-size="12" font-weight="700">MATLAB</text>
     <rect class="amber" x="574" y="62" width="150" height="16" rx="4"/><text class="text mono" x="864" y="76" font-size="12" text-anchor="end">658 stars</text>
-    <rect class="blue" x="574" y="86" width="18" height="10" rx="3"/><text class="muted mono" x="864" y="96" font-size="12" text-anchor="end">96 commits</text>
+    <rect class="blue" x="574" y="86" width="17" height="10" rx="3"/><text class="muted mono" x="864" y="96" font-size="12" text-anchor="end">96 commits</text>
     <text class="text" x="474" y="128" font-size="12" font-weight="700">Python</text>
-    <rect class="amber" x="574" y="112" width="102" height="16" rx="4"/><text class="text mono" x="864" y="126" font-size="12" text-anchor="end">448 stars</text>
-    <rect class="blue" x="574" y="136" width="150" height="10" rx="3"/><text class="muted mono" x="864" y="146" font-size="12" text-anchor="end">822 commits</text>
+    <rect class="amber" x="574" y="112" width="102" height="16" rx="4"/><text class="text mono" x="864" y="126" font-size="12" text-anchor="end">449 stars</text>
+    <rect class="blue" x="574" y="136" width="150" height="10" rx="3"/><text class="muted mono" x="864" y="146" font-size="12" text-anchor="end">861 commits</text>
     <text class="text" x="474" y="178" font-size="12" font-weight="700">未标注</text>
     <rect class="amber" x="574" y="162" width="64" height="16" rx="4"/><text class="text mono" x="864" y="176" font-size="12" text-anchor="end">282 stars</text>
-    <rect class="blue" x="574" y="186" width="103" height="10" rx="3"/><text class="muted mono" x="864" y="196" font-size="12" text-anchor="end">567 commits</text>
+    <rect class="blue" x="574" y="186" width="99" height="10" rx="3"/><text class="muted mono" x="864" y="196" font-size="12" text-anchor="end">567 commits</text>
     <text class="text" x="474" y="228" font-size="12" font-weight="700">JavaScript</text>
     <rect class="amber" x="574" y="212" width="23" height="16" rx="4"/><text class="text mono" x="864" y="226" font-size="12" text-anchor="end">103 stars</text>
-    <rect class="blue" x="574" y="236" width="143" height="10" rx="3"/><text class="muted mono" x="864" y="246" font-size="12" text-anchor="end">784 commits</text>
+    <rect class="blue" x="574" y="236" width="135" height="10" rx="3"/><text class="muted mono" x="864" y="246" font-size="12" text-anchor="end">777 commits</text>
   </g>
 
   <g transform="translate(48 808)">
     <rect class="panel" x="0" y="0" width="888" height="190" rx="8"/>
     <text class="text" x="18" y="30" font-size="18" font-weight="800">贡献热力图</text>
-    <text class="muted" x="870" y="30" text-anchor="end" font-size="12">7,545 contributions in the last year</text>
+    <text class="muted" x="870" y="30" text-anchor="end" font-size="12">7,888 contributions in the last year</text>
     <text class="muted" x="18" y="76" font-size="9">Mon</text>
     <text class="muted" x="18" y="106" font-size="9">Wed</text>
     <text class="muted" x="18" y="136" font-size="9">Fri</text>
@@ -240,7 +240,7 @@
     <rect x="301" y="67" width="11" height="11" rx="2" fill="#21262d"/>
     <rect x="301" y="82" width="11" height="11" rx="2" fill="#21262d"/>
     <rect x="301" y="97" width="11" height="11" rx="2" fill="#21262d"/>
-    <rect x="301" y="112" width="11" height="11" rx="2" fill="#0e4429"/>
+    <rect x="301" y="112" width="11" height="11" rx="2" fill="#21262d"/>
     <rect x="301" y="127" width="11" height="11" rx="2" fill="#0e4429"/>
     <rect x="301" y="142" width="11" height="11" rx="2" fill="#21262d"/>
     <rect x="316" y="52" width="11" height="11" rx="2" fill="#006d32"/>
@@ -285,7 +285,7 @@
     <rect x="391" y="112" width="11" height="11" rx="2" fill="#0e4429"/>
     <rect x="391" y="127" width="11" height="11" rx="2" fill="#0e4429"/>
     <rect x="391" y="142" width="11" height="11" rx="2" fill="#0e4429"/>
-    <rect x="406" y="52" width="11" height="11" rx="2" fill="#26a641"/>
+    <rect x="406" y="52" width="11" height="11" rx="2" fill="#006d32"/>
     <rect x="406" y="67" width="11" height="11" rx="2" fill="#006d32"/>
     <rect x="406" y="82" width="11" height="11" rx="2" fill="#0e4429"/>
     <rect x="406" y="97" width="11" height="11" rx="2" fill="#0e4429"/>
@@ -353,7 +353,7 @@
     <rect x="541" y="82" width="11" height="11" rx="2" fill="#0e4429"/>
     <rect x="541" y="97" width="11" height="11" rx="2" fill="#006d32"/>
     <rect x="541" y="112" width="11" height="11" rx="2" fill="#0e4429"/>
-    <rect x="541" y="127" width="11" height="11" rx="2" fill="#0e4429"/>
+    <rect x="541" y="127" width="11" height="11" rx="2" fill="#21262d"/>
     <rect x="541" y="142" width="11" height="11" rx="2" fill="#006d32"/>
     <rect x="556" y="52" width="11" height="11" rx="2" fill="#0e4429"/>
     <rect x="556" y="67" width="11" height="11" rx="2" fill="#0e4429"/>
@@ -369,7 +369,7 @@
     <rect x="571" y="112" width="11" height="11" rx="2" fill="#0e4429"/>
     <rect x="571" y="127" width="11" height="11" rx="2" fill="#006d32"/>
     <rect x="571" y="142" width="11" height="11" rx="2" fill="#006d32"/>
-    <rect x="586" y="52" width="11" height="11" rx="2" fill="#26a641"/>
+    <rect x="586" y="52" width="11" height="11" rx="2" fill="#006d32"/>
     <rect x="586" y="67" width="11" height="11" rx="2" fill="#006d32"/>
     <rect x="586" y="82" width="11" height="11" rx="2" fill="#006d32"/>
     <rect x="586" y="97" width="11" height="11" rx="2" fill="#0e4429"/>
@@ -401,7 +401,7 @@
     <rect x="646" y="67" width="11" height="11" rx="2" fill="#006d32"/>
     <rect x="646" y="82" width="11" height="11" rx="2" fill="#006d32"/>
     <rect x="646" y="97" width="11" height="11" rx="2" fill="#0e4429"/>
-    <rect x="646" y="112" width="11" height="11" rx="2" fill="#26a641"/>
+    <rect x="646" y="112" width="11" height="11" rx="2" fill="#006d32"/>
     <rect x="646" y="127" width="11" height="11" rx="2" fill="#26a641"/>
     <rect x="646" y="142" width="11" height="11" rx="2" fill="#39d353"/>
     <rect x="661" y="52" width="11" height="11" rx="2" fill="#26a641"/>
@@ -453,7 +453,7 @@
     <rect x="751" y="112" width="11" height="11" rx="2" fill="#26a641"/>
     <rect x="751" y="127" width="11" height="11" rx="2" fill="#26a641"/>
     <rect x="751" y="142" width="11" height="11" rx="2" fill="#39d353"/>
-    <rect x="766" y="52" width="11" height="11" rx="2" fill="#39d353"/>
+    <rect x="766" y="52" width="11" height="11" rx="2" fill="#26a641"/>
     <rect x="766" y="67" width="11" height="11" rx="2" fill="#26a641"/>
     <rect x="766" y="82" width="11" height="11" rx="2" fill="#006d32"/>
     <rect x="766" y="97" width="11" height="11" rx="2" fill="#39d353"/>
@@ -484,6 +484,8 @@
     <rect x="826" y="52" width="11" height="11" rx="2" fill="#39d353"/>
     <rect x="826" y="67" width="11" height="11" rx="2" fill="#39d353"/>
     <rect x="826" y="82" width="11" height="11" rx="2" fill="#39d353"/>
+    <rect x="826" y="97" width="11" height="11" rx="2" fill="#39d353"/>
+    <rect x="826" y="112" width="11" height="11" rx="2" fill="#39d353"/>
     <text class="muted" x="672" y="178" font-size="11">Less</text>
     <rect x="700" y="169" width="11" height="11" rx="2" fill="#21262d"/>
     <rect x="715" y="169" width="11" height="11" rx="2" fill="#0e4429"/>
@@ -496,44 +498,44 @@
   <g transform="translate(48 1018)">
     <rect class="panel" x="0" y="0" width="432" height="120" rx="8"/>
     <text class="text" x="18" y="30" font-size="18" font-weight="800">连续提交</text>
-    <text class="green mono" x="40" y="82" font-size="36" font-weight="800">94</text>
+    <text class="green mono" x="40" y="82" font-size="36" font-weight="800">96</text>
     <text class="muted" x="40" y="104" font-size="12">当前连续（天）</text>
-    <text class="amber mono" x="244" y="82" font-size="36" font-weight="800">94</text>
+    <text class="amber mono" x="244" y="82" font-size="36" font-weight="800">96</text>
     <text class="muted" x="244" y="104" font-size="12">最长连续（天）</text>
     <rect class="panel" x="456" y="0" width="432" height="120" rx="8"/>
     <text class="text" x="474" y="30" font-size="18" font-weight="800">近 30 天提交趋势</text>
-    <rect class="blue" x="478" y="91" width="8" height="9" rx="1"/>
-    <rect class="blue" x="490" y="95" width="8" height="5" rx="1"/>
-    <rect class="blue" x="502" y="88" width="8" height="12" rx="1"/>
-    <rect class="blue" x="514" y="85" width="8" height="15" rx="1"/>
-    <rect class="blue" x="526" y="91" width="8" height="9" rx="1"/>
-    <rect class="blue" x="538" y="95" width="8" height="5" rx="1"/>
+    <rect class="blue" x="478" y="88" width="8" height="12" rx="1"/>
+    <rect class="blue" x="490" y="85" width="8" height="15" rx="1"/>
+    <rect class="blue" x="502" y="91" width="8" height="9" rx="1"/>
+    <rect class="blue" x="514" y="96" width="8" height="4" rx="1"/>
+    <rect class="blue" x="526" y="86" width="8" height="14" rx="1"/>
+    <rect class="blue" x="538" y="92" width="8" height="8" rx="1"/>
     <rect class="blue" x="550" y="85" width="8" height="15" rx="1"/>
-    <rect class="blue" x="562" y="91" width="8" height="9" rx="1"/>
-    <rect class="blue" x="574" y="85" width="8" height="15" rx="1"/>
+    <rect class="blue" x="562" y="71" width="8" height="29" rx="1"/>
+    <rect class="blue" x="574" y="73" width="8" height="27" rx="1"/>
     <rect class="blue" x="586" y="70" width="8" height="30" rx="1"/>
-    <rect class="blue" x="598" y="72" width="8" height="28" rx="1"/>
-    <rect class="blue" x="610" y="69" width="8" height="31" rx="1"/>
-    <rect class="blue" x="622" y="73" width="8" height="27" rx="1"/>
-    <rect class="blue" x="634" y="79" width="8" height="21" rx="1"/>
-    <rect class="blue" x="646" y="75" width="8" height="25" rx="1"/>
-    <rect class="blue" x="658" y="82" width="8" height="18" rx="1"/>
-    <rect class="blue" x="670" y="76" width="8" height="24" rx="1"/>
-    <rect class="blue" x="682" y="81" width="8" height="19" rx="1"/>
-    <rect class="blue" x="694" y="91" width="8" height="9" rx="1"/>
-    <rect class="blue" x="706" y="92" width="8" height="8" rx="1"/>
-    <rect class="blue" x="718" y="87" width="8" height="13" rx="1"/>
-    <rect class="blue" x="730" y="83" width="8" height="17" rx="1"/>
-    <rect class="blue" x="742" y="82" width="8" height="18" rx="1"/>
-    <rect class="blue" x="754" y="73" width="8" height="27" rx="1"/>
-    <rect class="blue" x="766" y="73" width="8" height="27" rx="1"/>
-    <rect class="blue" x="778" y="51" width="8" height="49" rx="1"/>
-    <rect class="blue" x="790" y="69" width="8" height="31" rx="1"/>
-    <rect class="blue" x="802" y="58" width="8" height="42" rx="1"/>
-    <rect class="blue" x="814" y="55" width="8" height="45" rx="1"/>
-    <rect class="blue" x="826" y="44" width="8" height="56" rx="1"/>
+    <rect class="blue" x="598" y="74" width="8" height="26" rx="1"/>
+    <rect class="blue" x="610" y="80" width="8" height="20" rx="1"/>
+    <rect class="blue" x="622" y="76" width="8" height="24" rx="1"/>
+    <rect class="blue" x="634" y="83" width="8" height="17" rx="1"/>
+    <rect class="blue" x="646" y="78" width="8" height="22" rx="1"/>
+    <rect class="blue" x="658" y="80" width="8" height="20" rx="1"/>
+    <rect class="blue" x="670" y="91" width="8" height="9" rx="1"/>
+    <rect class="blue" x="682" y="92" width="8" height="8" rx="1"/>
+    <rect class="blue" x="694" y="88" width="8" height="12" rx="1"/>
+    <rect class="blue" x="706" y="83" width="8" height="17" rx="1"/>
+    <rect class="blue" x="718" y="83" width="8" height="17" rx="1"/>
+    <rect class="blue" x="730" y="74" width="8" height="26" rx="1"/>
+    <rect class="blue" x="742" y="74" width="8" height="26" rx="1"/>
+    <rect class="blue" x="754" y="53" width="8" height="47" rx="1"/>
+    <rect class="blue" x="766" y="70" width="8" height="30" rx="1"/>
+    <rect class="blue" x="778" y="60" width="8" height="40" rx="1"/>
+    <rect class="blue" x="790" y="57" width="8" height="43" rx="1"/>
+    <rect class="blue" x="802" y="44" width="8" height="56" rx="1"/>
+    <rect class="blue" x="814" y="53" width="8" height="47" rx="1"/>
+    <rect class="blue" x="826" y="78" width="8" height="22" rx="1"/>
     <line x1="476" y1="102" x2="838" y2="102" stroke="#30363d" stroke-width="1"/>
-    <text class="muted" x="474" y="122" font-size="12">近 30 天共 3052 次贡献</text>
+    <text class="muted" x="474" y="122" font-size="12">近 30 天共 3331 次贡献</text>
   </g>
 
   <g transform="translate(48 1158)">
@@ -541,13 +543,13 @@
     <text class="text" x="18" y="30" font-size="18" font-weight="800">最近活跃仓库</text>
     <line x1="184" y1="38" x2="842" y2="38" stroke="#30363d" stroke-width="2"/>
     <circle class="blue" cx="190" cy="38" r="10"/><text class="muted" x="190" y="62" text-anchor="middle" font-size="11">ai-hub-huaw…</text>
-    <circle class="amber" cx="283" cy="38" r="10"/><text class="muted" x="283" y="62" text-anchor="middle" font-size="11">PPTutor</text>
-    <circle class="green" cx="376" cy="38" r="10"/><text class="muted" x="376" y="62" text-anchor="middle" font-size="11">TianLin0509</text>
-    <circle class="cyan" cx="469" cy="38" r="10"/><text class="muted" x="469" y="62" text-anchor="middle" font-size="11">wireless-tr…</text>
-    <circle class="violet" cx="563" cy="38" r="10"/><text class="muted" x="563" y="62" text-anchor="middle" font-size="11">hubh-meeting</text>
-    <circle class="red" cx="656" cy="38" r="10"/><text class="muted" x="656" y="62" text-anchor="middle" font-size="11">hubh-pet</text>
-    <circle class="blue" cx="749" cy="38" r="10"/><text class="muted" x="749" y="62" text-anchor="middle" font-size="11">hubh-desktop</text>
-    <circle class="amber" cx="842" cy="38" r="10"/><text class="muted" x="842" y="62" text-anchor="middle" font-size="11">hubh-rooms</text>
+    <circle class="amber" cx="283" cy="38" r="10"/><text class="muted" x="283" y="62" text-anchor="middle" font-size="11">ai-hub</text>
+    <circle class="green" cx="376" cy="38" r="10"/><text class="muted" x="376" y="62" text-anchor="middle" font-size="11">PPTutor</text>
+    <circle class="cyan" cx="469" cy="38" r="10"/><text class="muted" x="469" y="62" text-anchor="middle" font-size="11">TianLin0509</text>
+    <circle class="violet" cx="563" cy="38" r="10"/><text class="muted" x="563" y="62" text-anchor="middle" font-size="11">wireless-tr…</text>
+    <circle class="red" cx="656" cy="38" r="10"/><text class="muted" x="656" y="62" text-anchor="middle" font-size="11">hubh-meeting</text>
+    <circle class="blue" cx="749" cy="38" r="10"/><text class="muted" x="749" y="62" text-anchor="middle" font-size="11">hubh-pet</text>
+    <circle class="amber" cx="842" cy="38" r="10"/><text class="muted" x="842" y="62" text-anchor="middle" font-size="11">hubh-desktop</text>
   </g>
 
   <text class="muted" x="490" y="1264" font-size="12" text-anchor="middle">口径：公开 owner repos；commit 为各仓库默认分支 commit 数汇总；贡献日历含私有贡献。</text>
